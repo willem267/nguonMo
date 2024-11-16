@@ -8,4 +8,5 @@ int main (){
     cout<<"Nhap so b: \n";
     cin>>b;
     cout<<"tong cua a va b la: "<< a+b;
+    cout<<"\n";
 }
